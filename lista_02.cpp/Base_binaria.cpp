@@ -14,6 +14,7 @@ int main(){
     int n;
     cin >> n;
     int qtd_binario = conta_binario(n);
+    cout << qtd_binario << endl;
     return 0;
 
 }
