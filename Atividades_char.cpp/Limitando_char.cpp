@@ -10,6 +10,4 @@ int main() {
     ola[4] = 77; // 77 é equivalente a 'M' na tabela ASCII
     cout << ola << endl;
     return 0;
-
-
 }
