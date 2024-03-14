@@ -14,5 +14,5 @@ int main(){
     getline(cin, texto);
     converter_para_maiuscula(texto);
     cout << texto << endl;
-    return 0;
+    return 0; 
 }
