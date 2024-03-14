@@ -17,4 +17,4 @@ int main (){
     return 0;
 }
 
-// programa que recebe uma string e substitue espaços por "-"
+// programa que recebe uma string e troca espaços por "-"
