@@ -1,9 +1,9 @@
 #include <iostream>
-using namespace std;
+
 
 int main() {
     char l;
-    cin >> l;
-    cout << "O valor ASCII de " << l << "é" << static_cast<int>(l) << endl;
+    std::cin >> l;
+    std::cout << "O valor ASCII de \'" << l << "\' é" << static_cast<int>(l) << std::endl; // Conversão estática
     return 0; 
 }
